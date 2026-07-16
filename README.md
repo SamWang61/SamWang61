@@ -111,9 +111,7 @@ ESG 資料監控與永續資訊分析平台，用於追蹤 ESG、碳管理、淨
 
 ⸻
 
-Current Focus
-
-I am currently focusing on:
+Current Focus On : 
 
 * AI-assisted business intelligence systems
 * ESG data automation
@@ -123,8 +121,8 @@ I am currently focusing on:
 
 ⸻
 
-Contact
+Contact :
 
 * GitHub: SamWang61
-* LinkedIn: Add your LinkedIn URL here
-* Email: Add your professional email here
+* LinkedIn: https://www.linkedin.com/in/samwang630/
+* Email: cashsam@gmail.com / i.love.sam@icloud.com
