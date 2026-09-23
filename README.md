@@ -1,6 +1,7 @@
 Sam Wang
 
-AI Application Manager | ESG Consultant | Python Automation & Cloud Intelligence Builder
+ESG Consultant | AI & Automation Manager
+Since May. 2024.
 
 I build AI-powered business systems that turn data into intelligence, automation into productivity, and insights into action.
 
