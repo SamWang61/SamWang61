@@ -1,8 +1,7 @@
 Sam Wang
 
-ESG Consultant | AI & Automation Manager
-
-Since May. 2024.
+ESG Consultant | AI Solutions & Automation Builder
+Since May 2024
 
 I build AI-powered business systems that turn data into intelligence, automation into productivity, and insights into action.
 
